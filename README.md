@@ -1,2 +1,2 @@
 # hello-world
-this
+this is a learning exercise
